@@ -1,0 +1,6 @@
+{
+  "name": "EcoTrack AI",
+  "description": "A comprehensive personal carbon footprint tracker and sustainability gamification app powered by Gemini AI",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
